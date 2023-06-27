@@ -42,7 +42,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or questions, please contact [Your Name] at [your email address].
+For any inquiries or questions, please contact Iryna Zimnitskaya at irinazimnitskaya19@gmail.com.
 
 **Disclaimer:**
 
